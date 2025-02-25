@@ -1,0 +1,16 @@
+{
+  "name": "novice-react",
+  "version": "1.0.0",
+  "description": "Create React Project with Vite and my favorite packages.",
+  "bin": {
+    "novice-react": "bin/index.js"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Sho Ochiai",
+  "license": "ISC",
+  "type": "module"
+}
